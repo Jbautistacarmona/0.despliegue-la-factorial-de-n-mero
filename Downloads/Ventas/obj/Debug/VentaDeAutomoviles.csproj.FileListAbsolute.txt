@@ -1,0 +1,10 @@
+C:\Users\thedo\source\repos\VentaDeAutomoviles\bin\Debug\VentaDeAutomoviles.exe.config
+C:\Users\thedo\source\repos\VentaDeAutomoviles\bin\Debug\VentaDeAutomoviles.exe
+C:\Users\thedo\source\repos\VentaDeAutomoviles\bin\Debug\VentaDeAutomoviles.pdb
+C:\Users\thedo\source\repos\VentaDeAutomoviles\obj\Debug\VentaDeAutomoviles.csproj.AssemblyReference.cache
+C:\Users\thedo\source\repos\VentaDeAutomoviles\obj\Debug\VentaDeAutomoviles.Form1.resources
+C:\Users\thedo\source\repos\VentaDeAutomoviles\obj\Debug\VentaDeAutomoviles.Properties.Resources.resources
+C:\Users\thedo\source\repos\VentaDeAutomoviles\obj\Debug\VentaDeAutomoviles.csproj.GenerateResource.cache
+C:\Users\thedo\source\repos\VentaDeAutomoviles\obj\Debug\VentaDeAutomoviles.csproj.CoreCompileInputs.cache
+C:\Users\thedo\source\repos\VentaDeAutomoviles\obj\Debug\VentaDeAutomoviles.exe
+C:\Users\thedo\source\repos\VentaDeAutomoviles\obj\Debug\VentaDeAutomoviles.pdb
